@@ -56,8 +56,6 @@ The magic happens inside the `shader.frag` file. Instead of drawing shapes manua
 ---
 
 <div align="center">
-  <h3>🎬 Project Demo</h3>
-  <video src="https://github.com/MdAshrafUllah/flutter_shader_art/raw/refs/heads/main/flutter_shader_art.mp4" width="100%" max-width="600px" controls autoplay loop muted>
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/MdAshrafUllah/flutter_shader_art/blob/main/flutter_shader_art.gif?raw=true" alt="Shader Art Demo" width="600">
+  <p><i>Real-time Fractal Shader rendering on Flutter GPU</i></p>
 </div>
